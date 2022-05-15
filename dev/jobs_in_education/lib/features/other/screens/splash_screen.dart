@@ -25,17 +25,17 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
     Future.delayed(Duration(seconds: 4), () async {
-      if (await tokenStorage.isTokenExist) {
+      // if (await tokenStorage.isTokenExist) {
         await _fetchJobPreferencesAndNavigateToDashboard();
-      } else {
-        Navigator.pushReplacementNamed(context, RouteNames.onBoarding);
-      }
+      // } else {
+      //   Navigator.pushReplacementNamed(context, RouteNames.onBoarding);
+      // }
     });
   }
 
   Future<void> _fetchJobPreferencesAndNavigateToDashboard() async {
     try {
-      await context.read<JobPreferenceProvider>().fetchJobPreferences();
+      // await context.read<JobPreferenceProvider>().fetchJobPreferences();
       Navigator.pushReplacementNamed(context, RouteNames.dashboard);
     } on Exception catch (e) {
       SnackBarMessage.show(context, e.toString(),
