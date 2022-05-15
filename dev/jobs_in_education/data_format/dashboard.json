@@ -1,0 +1,209 @@
+{
+  "name": "Jason",
+  "notificationCount": "2",
+  "summary": {
+    "saved": "10",
+    "invited": "12",
+    "applied": "14",
+    "underProcess": "16"
+  },
+  "latestJobs": [
+    {
+      "post": "Chemistry Teacher",
+      "details": [
+        {
+          "school": "DPS School",
+          "fullPost": "Primary Chemistry Teacher",
+          "location": "Kolkata",
+          "minExperience": "3 Years Min.",
+          "timing": "Full Time",
+          "offer": "3.5 LPA Max."
+        },
+        {
+          "school": "MGB School",
+          "fullPost": "Intermediate Chemistry Teacher",
+          "location": "Patna",
+          "minExperience": "2 Years Min.",
+          "timing": "Part Time",
+          "offer": "1.5 LPA Max."
+        },
+        {
+          "school": "Dehradoon School",
+          "fullPost": "Senior Chemistry Teacher",
+          "location": "Ranchi",
+          "minExperience": "6 Years Min.",
+          "timing": "Full Time",
+          "offer": "7.5 LPA Max."
+        }
+      ]
+    },
+    {
+      "post": "Maths teacher",
+      "details": [
+        {
+          "school": "ADB School",
+          "fullPost": "Primary Maths Teacher",
+          "location": "Kolkata",
+          "minExperience": "4 Years Min.",
+          "timing": "Full Time",
+          "offer": "3.5 LPA Max."
+        },
+        {
+          "school": "Akash School",
+          "fullPost": "Intermediate Maths Teacher",
+          "location": "Dehradoon",
+          "minExperience": "2 Years Min.",
+          "timing": "Full Time",
+          "offer": "4.5 LPA Max."
+        },
+        {
+          "school": "MPS School",
+          "fullPost": "Senior Maths Teacher",
+          "location": "Delhi",
+          "minExperience": "8 Years Min.",
+          "timing": "Full Time",
+          "offer": "9.5 LPA Max."
+        }
+      ]
+    }
+  ],
+  "suggestedJobs": [
+    {
+      "post": "Chemistry Teacher",
+      "details": [
+        {
+          "school": "DPS School",
+          "fullPost": "Primary Chemistry Teacher",
+          "location": "Kolkata",
+          "minExperience": "3 Years Min.",
+          "timing": "Full Time",
+          "offer": "4.5 LPA Max."
+        },
+        {
+          "school": "MGB School",
+          "fullPost": "Intermediate Chemistry Teacher",
+          "location": "Patna",
+          "minExperience": "2 Years Min.",
+          "timing": "Part Time",
+          "offer": "4.5 LPA Max."
+        },
+        {
+          "school": "Dehradoon School",
+          "fullPost": "Senior Chemistry Teacher",
+          "location": "Ranchi",
+          "minExperience": "6 Years Min.",
+          "timing": "Full Time",
+          "offer": "7.5 LPA Max."
+        }
+      ]
+    },
+    {
+      "post": "Maths teacher",
+      "details": [
+        {
+          "school": "ADB School",
+          "fullPost": "Primary Maths Teacher",
+          "location": "Kolkata",
+          "minExperience": "4 Years Min.",
+          "timing": "Full Time",
+          "offer": "3.5 LPA Max."
+        },
+        {
+          "school": "Akash School",
+          "fullPost": "Intermediate Maths Teacher",
+          "location": "Dehradoon",
+          "minExperience": "2 Years Min.",
+          "timing": "Full Time",
+          "offer": "4.5 LPA Max."
+        },
+        {
+          "school": "MPS School",
+          "fullPost": "Senior Maths Teacher",
+          "location": "Delhi",
+          "minExperience": "8 Years Min.",
+          "timing": "Full Time",
+          "offer": "9.5 LPA Max."
+        }
+      ]
+    }
+  ],
+  "recentSearches": [
+    "Chemistry Teacher",
+    "TGT Chemistry",
+    "PGT Maths",
+    "GRAD Physics"
+  ],
+  "isProfile95PerComplete": true,
+  "profileCompletionStatus": 96,
+  "upcomingEvents": [
+    {
+      "type": "Interview Alert",
+      "time": "Today 2 Pm",
+      "roleFor": "Chemistry Teacher",
+      "school": "DPS School",
+      "address": "New Town Kolkata",
+      "rounds": [
+        "1st round - MCQ",
+        "2ndround - Face to face"
+      ]
+    },
+    {
+      "type": "Interview Alert1",
+      "time": "Today 4 Pm",
+      "roleFor": "Physics Teacher",
+      "school": "DPS School",
+      "address": "New Town Kolkata",
+      "rounds": [
+        "1st round - MCQ",
+        "2ndround - Face to face"
+      ]
+    },
+    {
+      "type": "Interview Alert2",
+      "time": "Today 3 Pm",
+      "roleFor": "Maths Teacher",
+      "school": "DPS School",
+      "address": "New Town Kolkata",
+      "rounds": [
+        "1st round - MCQ",
+        "2ndround - Face to face"
+      ]
+    }
+  ],
+  "jobOffers": [
+    {
+      "school": "DPS School",
+      "address": "New Town Kolkata",
+      "roleFor": "Primary Chemistry Teacher",
+      "classes": "VII-X Classes",
+      "dateOfJoining": "30 June,2021",
+      "offer": "6.5 LPA"
+    },
+    {
+      "school": "Indira Gandhi School",
+      "address": "Salt Lake Kolkata",
+      "roleFor": "Primary Maths Teacher",
+      "classes": "VIII-X Classes",
+      "dateOfJoining": "01 April,2021",
+      "offer": "8.5 LPA"
+    }
+  ],
+  "jobPreferenceSelections": [
+    {
+      "isSelected": false,
+      "post": "Primary Chemistry Teacher",
+      "locations": "Kolkata, Mumbai, Delhi, Goa",
+      "period": "3 years",
+      "timing": "Full Time",
+      "offer": "6.5 LPA"
+    },
+    {
+      "isSelected": true,
+      "post": "Primary Maths Teacher",
+      "locations": "Kolkata, Pune, Banglore, Goa",
+      "period": "6 years",
+      "timing": "Full Time",
+      "offer": "9.5 LPA"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/counter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/counter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/counter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/jin-demo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/jin-demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/jin-demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/flutter2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dev/jobs_in_education/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dev/jobs_in_education/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dev/jobs_in_education/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/adam1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/adam1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab/adam1/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
